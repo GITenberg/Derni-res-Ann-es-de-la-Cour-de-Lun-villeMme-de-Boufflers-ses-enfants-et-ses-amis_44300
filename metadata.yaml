@@ -1,0 +1,30 @@
+_repo: Derni-res-Ann-es-de-la-Cour-de-Lun-villeMme-de-Boufflers-ses-enfants-et-ses-amis_44300
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44300-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Maugras, Gaston
+    birthdate: 1850
+    deathdate: 1927
+    gutenberg_agent_id: '41973'
+    url: http://www.gutenberg.org/2009/agents/41973
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2013-11-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44300'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Stanislaw I Leszczynski, King of Poland, 1677-1766'
+- !lcsh 'Boufflers, Marie Françoise Catherine de Beauvau, marquise de, 1711-1786'
+- !lcc 'DK'
+title: 'Dernières Années de la Cour de Lunéville
+
+  Mme de Boufflers, ses enfants et ses amis'
+url: http://www.gutenberg.org/ebooks/44300
